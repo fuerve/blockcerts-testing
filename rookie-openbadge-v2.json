@@ -1,7 +1,7 @@
 {
 	"name": "Rookie Badge Issuer",
 	"description": "Issues great new Open Badges to self.",
-	"image": "http://yoursite.com/rookie-badge-issuer.png",
+	"image": "http://yoursite.com/buckyball.png",
 	"criteria": "http://yoursite.com/rookie-badge-criteria.html",
-	"issuer": "http://yoursite.com/badge-issuer.json"
+	"issuer": "http://yoursite.com/rookie-openbadge-v2-issuer.json"
 }
