@@ -1,0 +1,33 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/core-openbadge-v2.json",
+  "type": "Assertion",
+  "recipient": {
+    "type": "email",
+    "identity": "fuerve@yahoo.com"
+  },
+  "issuedOn": "2016-12-31T23:59:59+00:00",
+  "verification": {
+    "type": "hosted"
+  },
+  "badge": {
+    "type": "BadgeClass",
+    "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/core-openbadge-v2.json",
+    "name": "Hosted Badge",
+    "description": "Test Open Badge.",
+    "image": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/buckyball.jpg",
+    "criteria": {
+      "narrative": "There are some criteria around here somewhere, I'm sure."
+    },
+    "issuer": {
+      "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/core-openbadge-v2.issuer.json",
+      "type": "Profile",
+      "name": "Core Open Badge v2 Issuer",
+      "url": "https://github.com/fuerve/blockcerts-testing",
+      "email": "fuerve@yahoo.com",
+      "verification": {
+         "allowedOrigins": "githubusercontent.com"
+      }
+    }
+  }
+}
