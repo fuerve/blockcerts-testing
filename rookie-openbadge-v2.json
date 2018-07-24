@@ -1,7 +1,7 @@
 {
 	"name": "Rookie Badge Issuer",
 	"description": "Issues great new Open Badges to self.",
-	"image": "http://yoursite.com/buckyball.png",
+	"image": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/buckyball.jpg",
 	"criteria": "http://yoursite.com/rookie-badge-criteria.html",
-	"issuer": "http://yoursite.com/rookie-openbadge-v2-issuer.json"
+	"issuer": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/rookie-openbadge-v2-issuer.json"
 }
