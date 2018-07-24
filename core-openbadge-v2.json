@@ -1,10 +1,10 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/core-openbadge-v2.json",
+  "id": "https://example.org/assertions/123",
   "type": "Assertion",
   "recipient": {
     "type": "email",
-    "identity": "fuerve@yahoo.com"
+    "identity": "alice@example.org"
   },
   "issuedOn": "2016-12-31T23:59:59+00:00",
   "verification": {
@@ -12,21 +12,21 @@
   },
   "badge": {
     "type": "BadgeClass",
-    "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/core-openbadge-v2.json",
-    "name": "Hosted Badge",
-    "description": "Test Open Badge.",
-    "image": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/buckyball.jpg",
+    "id": "https://example.org/badges/5",
+    "name": "3-D Printmaster",
+    "description": "This badge is awarded for passing the 3-D printing knowledge and safety test.",
+    "image": "https://example.org/badges/5/image",
     "criteria": {
-      "narrative": "There are some criteria around here somewhere, I'm sure."
+      "narrative": "Students are tested on knowledge and safety, both through a paper test and a supervised performance evaluation on live equipment"
     },
     "issuer": {
-      "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/core-openbadge-v2.issuer.json",
+      "id": "https://example.org/issuer",
       "type": "Profile",
-      "name": "Core Open Badge v2 Issuer",
-      "url": "https://github.com/fuerve/blockcerts-testing",
-      "email": "fuerve@yahoo.com",
+      "name": "Example Maker Society",
+      "url": "https://example.org",
+      "email": "contact@example.org",
       "verification": {
-         "allowedOrigins": "githubusercontent.com"
+         "allowedOrigins": "example.org"
       }
     }
   }
