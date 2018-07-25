@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://example.org/robotics-badge.json",
+  "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/simple_example/robotics-badge.json",
   "name": "Awesome Robotics Badge",
   "description": "For doing awesome things with robots that people think is pretty great.",
   "image": {
@@ -13,7 +13,7 @@
     "id": "https://example.org/robotics-badge.html",
     "narrative": "To earn the **Awesome Robotics Badge**, students must construct a basic robot.\n\nThe robot must be able to:\n\n  * Move forward and backwards.\n * Pick up a bucket by its handle."
   },
-  "issuer": "https://example.org/organization.json",
+  "issuer": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/simple_example/issuer.json",
   "alignment": [
     {
       "targetName": "CCSS.ELA-Literacy.RST.11-12.3",
