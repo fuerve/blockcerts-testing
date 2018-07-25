@@ -50,7 +50,8 @@
     "name": "Arya Stark"
   },
   "verification": {
-    "type": "hosted"
+    "type": "hosted",
+    "allowedOrigins": "w3id.org"
   },
   "signature": {
     "type": [
