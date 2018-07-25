@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://example.org/beths-robotics-badge.json",
+  "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/beths-robotics-badge.json",
   "recipient": {
     "type": "email",
     "hashed": true,
@@ -10,7 +10,7 @@
   },
   "issuedOn": "2016-12-31T23:59:59Z",
   "badge": {
-    "id": "https://example.org/robotics-badge.json",
+    "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/beths-robotics-badge.json",
     "type": "BadgeClass",
     "name": "Awesome Robotics Badge",
     "description": "For doing awesome things with robots that people think is pretty great.",
