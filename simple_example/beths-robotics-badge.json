@@ -11,7 +11,7 @@
   "image": "https://example.org/beths-robot-badge.png",
   "evidence": "https://example.org/beths-robot-work.html",
   "issuedOn": "2016-12-31T23:59:59Z",
-  "expires": "2017-06-30T23:59:59Z",
+  "expires": "2020-06-30T23:59:59Z",
   "badge": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/simple_example/robotics-badge.json",
   "verification": {
     "type": "hosted"
