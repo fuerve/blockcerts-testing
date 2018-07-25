@@ -7,7 +7,7 @@
   "url": "https://example.org",
   "email": "contact@example.org",
   "verification": {
-    "allowedOrigins": ["example.org", "two.example.org"],
+    "allowedOrigins": ["example.org", "two.example.org", "githubusercontent.com", "raw.githubusercontent.com"],
     "verificationProperty": "id"
   }
 }
