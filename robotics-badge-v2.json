@@ -3,7 +3,7 @@
     "https://w3id.org/openbadges/v2",
     "https://w3id.org/blockcerts/schema/2.0/context.json"
   ],
-  "id": "urn:uuid:bc9bdbb5-d734-4242-9edc-d1bc3f8f7a6e",
+  "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/robotics-badge-v2.json",
   "type": "Assertion",
   "issuedOn": "2016-12-31T23:59:59Z",
   "badge": {
