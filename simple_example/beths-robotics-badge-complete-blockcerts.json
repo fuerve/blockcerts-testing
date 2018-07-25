@@ -1,0 +1,56 @@
+{
+  "@context": [
+    "https://w3id.org/openbadges/v2",
+    "https://w3id.org/blockcerts/v2"
+  ],
+  "type": "Assertion",
+  "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/simple_example/beths-robotics-badge-complete-blockcerts.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "deadsea",
+    "identity": "sha256$b6877bb4361da770ac2c9fa2f28136de8dc93d823bbc1de438d5987e3f4032ef"
+  },
+  "image": "https://example.org/beths-robot-badge.png",
+  "evidence": "https://example.org/beths-robot-work.html",
+  "issuedOn": "2016-12-31T23:59:59Z",
+  "expires": "2020-06-30T23:59:59Z",
+  "badge": {
+    "type": "BadgeClass",
+    "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/simple_example/robotics-badge.json",
+    "name": "Awesome Robotics Badge",
+    "description": "For doing awesome things with robots that people think is pretty great.",
+    "image": {
+      "id": "https://example.org/robot-badge.png",
+      "caption": "A pretty badge, with many happy trees.",
+      "author": "http://example.org/Bob_Ross_profile.json"
+    },
+    "criteria": {
+      "id": "https://example.org/robotics-badge.html",
+      "narrative": "To earn the **Awesome Robotics Badge**, students must construct a basic robot.\n\nThe robot must be able to:\n\n  * Move forward and backwards.\n * Pick up a bucket by its handle."
+    },
+    "issuer": {
+      "type": "Profile",
+      "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/simple_example/issuer.json",
+      "name": "An Example Badge Issuer",
+      "image": "https://example.org/logo.png",
+      "url": "https://example.org",
+      "email": "contact@example.org",
+      "verification": {
+        "allowedOrigins": ["example.org", "two.example.org", "githubusercontent.com", "raw.githubusercontent.com"],
+        "verificationProperty": "id"
+      }
+    },
+    "alignment": [
+      {
+        "targetName": "CCSS.ELA-Literacy.RST.11-12.3",
+        "targetUrl": "http://www.corestandards.org/ELA-Literacy/RST/11-12/3",
+        "targetDescription": "Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks; analyze the specific results based on explanations in the text.",
+        "targetCode": "CCSS.ELA-Literacy.RST.11-12.3"
+      }
+    ]
+  },
+  "verification": {
+    "type": "hosted"
+  }
+}
