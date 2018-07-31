@@ -8,7 +8,7 @@
 	"type": "Assertion",
 	"displayHtml": "<h1>Some html code</h1>",
 	"issuedOn": "2018-07-31T12:37:15.768747+00:00",
-	"id": "urn:uuid:47b751b8-191f-4553-873f-ea22e7780a6f",
+	"id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/47b751b8-191f-4553-873f-ea22e7780a6f.json",
 	"recipient": {
 		"type": "email",
 		"identity": "eularia@landroth.org",
