@@ -23,6 +23,7 @@
 		"type": "BadgeClass",
 		"id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/badge.json",
 		"name": "Certificate of Accomplishment",
+        "image": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/buckyball.png",
 		"description": "Lorem ipsum dolor sit amet, mei docendi concludaturque ad, cu nec partem graece. Est aperiam consetetur cu, expetenda moderatius neglegentur ei nam, suas dolor laudem eam an.",
 		"issuer": {
 			"id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/issuer.json",
@@ -30,6 +31,7 @@
 			"name": "University of Learning",
 			"url": "https://www.issuer.org",
 			"email": "contact@issuer.org",
+            "image": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/buckyball.png",
 			"revocationList": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/revocations.json"
 		},
 		"criteria": {
@@ -38,6 +40,7 @@
 		"signatureLines": [{
 				"type": ["SignatureLine", "Extension"],
 				"jobTitle": "University Issuer",
+				"image": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/buckyball.png",
 				"name": "Your signature"
 			}
 		]
