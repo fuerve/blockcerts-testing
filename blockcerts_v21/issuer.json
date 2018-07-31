@@ -7,6 +7,7 @@
   "url": "https://www.issuer.org",
   "name": "University of Learning",
   "email": "contact@issuer.org",
+  "image": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/buckyball.png",
   "revocationList": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/revocations.json",
   "type": "Profile"
 }
