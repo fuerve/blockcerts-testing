@@ -3,6 +3,7 @@
   "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/badge.json",
   "name": "Certificate of Accomplishment",
   "description": "Lorem ipsum dolor sit amet, mei docendi concludaturque ad, cu nec partem graece. Est aperiam consetetur cu, expetenda moderatius neglegentur ei nam, suas dolor laudem eam an.",
+  "image": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/buckyball.png",
   "issuer": {
     "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/issuer.json",
     "type": "Profile",
