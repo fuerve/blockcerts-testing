@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://w3id.org/openbadges/v2",
-    "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema"
+    "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/context.json"
   ],
   "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/issuer.json",
   "url": "https://www.issuer.org",
