@@ -1,5 +1,5 @@
 {
-	"@context": ["https://w3id.org/openbadges/v2", "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema", {
+	"@context": ["https://w3id.org/openbadges/v2", "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/context.json", {
 			"displayHtml": {
 				"@id": "schema:description"
 			}
