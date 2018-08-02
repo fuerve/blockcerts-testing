@@ -15,8 +15,8 @@
     "SignatureLine": "bc:SignatureLine",
     "MerkleProofVerification2017": "bc:MerkleProofVerification2017",
     
-    "recipientProfile": "bc:recipientProfile",
-    "signatureLines": "bc:signatureLines",
+    "recipientProfile": "bc:RecipientProfile",
+    "signatureLines": "bc:SignatureLines",
     "introductionUrl": { "@id": "bc:introductionUrl", "@type": "@id" },
     
     "subtitle": "bc:subtitle",
