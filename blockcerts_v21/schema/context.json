@@ -53,7 +53,7 @@
   },
   "obi:validation": [
     {
-      "obi:validatesType": "bc:RecipientProfile",
+      "obi:validatesType": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema#RecipientProfile",
       "obi:validationSchema": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/recipientSchema.json"
     },
     {
