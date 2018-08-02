@@ -54,15 +54,15 @@
   "obi:validation": [
     {
       "obi:validatesType": "bc:RecipientProfile",
-      "obi:validationSchema": "https://w3id.org/blockcerts/schema/2.1/recipientSchema.json"
+      "obi:validationSchema": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/recipientSchema.json"
     },
     {
       "obi:validatesType": "bc:SignatureLine",
-      "obi:validationSchema": "https://w3id.org/blockcerts/schema/2.1/signatureLineSchema.json"
+      "obi:validationSchema": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/signatureLineSchema.json"
     },
     {
       "obi:validatesType": "bc:MerkleProof2017",
-      "obi:validationSchema": "https://w3id.org/blockcerts/schema/2.1/merkleProof2017Schema.json"
+      "obi:validationSchema": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/merkleProof2017Schema.json"
     }
   ]
 }
