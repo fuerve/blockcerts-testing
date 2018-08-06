@@ -57,11 +57,11 @@
       "obi:validationSchema": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/recipientSchema.json"
     },
     {
-      "obi:validatesType": "bc:SignatureLine",
+      "obi:validatesType": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema#SignatureLine",
       "obi:validationSchema": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/signatureLineSchema.json"
     },
     {
-      "obi:validatesType": "bc:MerkleProof2017",
+      "obi:validatesType": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema#MerkleProof2017",
       "obi:validationSchema": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_v21/schema/merkleProof2017Schema.json"
     }
   ]
